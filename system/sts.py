@@ -1,4 +1,4 @@
-from Portfolio._portfolio_construction_model import PortfolioConstructionModel
+from portfolio._portfolio_construction_model import PortfolioConstructionModel
 
 
 class SimTradingSystem(object):
