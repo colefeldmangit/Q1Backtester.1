@@ -1,5 +1,5 @@
-from execution.order import Order
 import unittest
+from execution.order import Order
 from datetime import datetime
 
 order = Order(dt=datetime.now(), asset='LLNW', quantity=100, side='BUY')
